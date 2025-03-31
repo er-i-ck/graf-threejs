@@ -1,4 +1,4 @@
-import * as THREE from 'https://unpkg.com/three@0.154.0/build/three.module.js';
+import * as THREE from 'three'; 
 
 // Crear la escena, cámara y renderizador
 const scene = new THREE.Scene();
